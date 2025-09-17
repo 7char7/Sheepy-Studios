@@ -1165,3 +1165,19 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.17-17.40.59:289][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1542370262
 [2025.09.17-17.40.59:289][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6.427077, Update Interval: 358.601044
 [2025.09.17-17.42.46:556][414]LogDerivedDataCache: C:/Users/rappa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.17-17.43.29:578][673]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.17-17.43.29:660][674]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.17-17.43.34:909][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.17-17.43.34:975][979]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/9S/AT66MUZW91DYUD6WM5FH0P
+[2025.09.17-17.43.34:975][979]LogSavePackage: Moving '../../../../../../Users/rappa/Documents/github/Sheepy-Studios/Sheepy/Saved/AT66MUZW91DYUD6WM5FH0P8D0A0B53432D1AE782DE45945A0AA6FD.tmp' to '../../../../../../Users/rappa/Documents/github/Sheepy-Studios/Sheepy/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/9S/AT66MUZW91DYUD6WM5FH0P.uasset'
+[2025.09.17-17.43.34:997][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.921 ms
+[2025.09.17-17.43.35:060][979]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.17-17.43.35:060][979]LogContentValidation: Enabled validators:
+[2025.09.17-17.43.35:060][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.17-17.43.35:060][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.17-17.43.35:060][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.17-17.43.35:060][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.17-17.43.35:060][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.17-17.43.35:060][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.17-17.43.35:061][979]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.09.17-17.43.35:078][979]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rappa/Documents/github/Sheepy-Studios/Sheepy/Saved/SourceControl/UncontrolledChangelists.json
