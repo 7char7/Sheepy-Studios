@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/blank.umap",
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Art_Testing.umap",
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_AI_Testing.umap",
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Blueprints/BP_GameMode.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/blank_HLOD0_Instancing.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalActors__/Levels/blank/D/9W/K48WRXMYJ9EEK1E3SPL4VD.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalObjects__/Levels/blank/5/NZ/X28Y2MJ88HNQ8ONL92J7Q5.uasset",
@@ -150,9 +155,7 @@
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalActors__/Levels/blank/3/ZS/Y5RFPT0F4OH481PYH8PY3G.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalActors__/Levels/blank/E/JM/6ZA822L51EB136OEIUTM4X.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalActors__/Levels/blank/5/NJ/XTTKHM80K7IZXGU8OPOWK9.uasset",
-				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/blank.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalActors__/Levels/blank/8/8P/6Y0TNGXHVWSSR6YVS744MQ.uasset",
-				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Art_Testing.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalActors__/Levels/Lvl_AI_Testing/D/U3/1FUWVIEC0Q7VST0ASVR0CP.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalObjects__/Levels/Lvl_AI_Testing/E/01/UPCUI45CRIQMPFYVDKOHT5.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalObjects__/Levels/Lvl_AI_Testing/5/AP/YLUJE72W7H86D9O5DW5WWN.uasset",
@@ -298,7 +301,6 @@
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalActors__/Levels/Lvl_AI_Testing/0/XC/8BIGHW4CM58VFDJW36G1N7.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalActors__/Levels/Lvl_AI_Testing/8/R6/XHA5QA8SPN6WV9IOFHEVJR.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/__ExternalActors__/Levels/Lvl_AI_Testing/4/QS/WXW1T2BQOMPY40T6A01S1Y.uasset",
-				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_AI_Testing.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Art_Testing.umap"
 			]
 		}
