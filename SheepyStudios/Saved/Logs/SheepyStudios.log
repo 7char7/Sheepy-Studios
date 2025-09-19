@@ -1818,3 +1818,174 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.19-07.31.58:679][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.19-07.31.58:679][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.19-07.31.58:679][187]AssetCheck: /Game/Levels/Lvl_Garage_Floor_3 Validating asset
+[2025.09.19-07.36.44:983][629]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4398.542480
+[2025.09.19-07.36.45:983][632]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.19-07.36.45:983][632]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4399.208496, Update Interval: 315.326385
+[2025.09.19-07.37.04:441][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.19-07.37.06:454][773]LogSlate: Window 'Save Content' being destroyed
+[2025.09.19-07.37.06:465][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.19-07.37.06:566][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_12B84A8C] ([1] browsable assets)...
+[2025.09.19-07.37.06:566][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_12B84A8C]
+[2025.09.19-07.37.06:576][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_12B84A8C
+[2025.09.19-07.37.06:576][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_12B84A8CE388BF774FFFD658C0969CB030006378.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_12B84A8C.uasset'
+[2025.09.19-07.37.06:578][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_25386F22] ([1] browsable assets)...
+[2025.09.19-07.37.06:578][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_25386F22]
+[2025.09.19-07.37.06:584][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_25386F22
+[2025.09.19-07.37.06:584][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_25386F22DFA408E5476A8230715C9EB06CA038B4.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_25386F22.uasset'
+[2025.09.19-07.37.06:586][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_3124EEE0] ([1] browsable assets)...
+[2025.09.19-07.37.06:642][773]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/logan/CubeGridToolOutput_3124EEE0.CubeGridToolOutput_3124EEE0]
+[2025.09.19-07.37.06:642][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_3124EEE0]
+[2025.09.19-07.37.06:651][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_3124EEE0
+[2025.09.19-07.37.06:651][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_3124EEE0BA1ABA1E46728C04FF48ECB80A7120FC.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_3124EEE0.uasset'
+[2025.09.19-07.37.06:652][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_344C978F] ([1] browsable assets)...
+[2025.09.19-07.37.06:652][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_344C978F]
+[2025.09.19-07.37.06:658][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_344C978F
+[2025.09.19-07.37.06:659][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_344C978FC13B5B2A440FD4FE788252A1CC6A7B61.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_344C978F.uasset'
+[2025.09.19-07.37.06:659][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_3BF2958F] ([1] browsable assets)...
+[2025.09.19-07.37.06:659][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_3BF2958F]
+[2025.09.19-07.37.06:664][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_3BF2958F
+[2025.09.19-07.37.06:664][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_3BF2958FE5489C9F4D8EB4DD1537A0807A18DA64.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_3BF2958F.uasset'
+[2025.09.19-07.37.06:664][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_5A45C1BC] ([1] browsable assets)...
+[2025.09.19-07.37.06:664][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_5A45C1BC]
+[2025.09.19-07.37.06:670][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_5A45C1BC
+[2025.09.19-07.37.06:670][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_5A45C1BC174FA083451D4BDEAAF168BAE46E02C1.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_5A45C1BC.uasset'
+[2025.09.19-07.37.06:670][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_71A3AD59] ([1] browsable assets)...
+[2025.09.19-07.37.06:670][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_71A3AD59]
+[2025.09.19-07.37.06:677][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_71A3AD59
+[2025.09.19-07.37.06:677][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_71A3AD59AC51592B4B2CC3C5C08DF1980E387F6F.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_71A3AD59.uasset'
+[2025.09.19-07.37.06:678][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_A2400685] ([1] browsable assets)...
+[2025.09.19-07.37.06:682][773]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/logan/CubeGridToolOutput_A2400685.CubeGridToolOutput_A2400685]
+[2025.09.19-07.37.06:682][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_A2400685]
+[2025.09.19-07.37.06:692][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_A2400685
+[2025.09.19-07.37.06:692][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_A24006856098DE6B459FF6D2BB2CD5B41C322314.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_A2400685.uasset'
+[2025.09.19-07.37.06:693][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_A265307F] ([1] browsable assets)...
+[2025.09.19-07.37.06:699][773]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/logan/CubeGridToolOutput_A265307F.CubeGridToolOutput_A265307F]
+[2025.09.19-07.37.06:699][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_A265307F]
+[2025.09.19-07.37.06:705][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_A265307F
+[2025.09.19-07.37.06:705][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_A265307FE8D05CA74B4F6937F280258561AC1B4A.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_A265307F.uasset'
+[2025.09.19-07.37.06:706][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_A69A3E19] ([1] browsable assets)...
+[2025.09.19-07.37.06:706][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_A69A3E19]
+[2025.09.19-07.37.06:710][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_A69A3E19
+[2025.09.19-07.37.06:712][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_A69A3E197E9166B94343A9898F05398F4110115A.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_A69A3E19.uasset'
+[2025.09.19-07.37.06:712][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_B93914FA] ([1] browsable assets)...
+[2025.09.19-07.37.06:718][773]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/logan/CubeGridToolOutput_B93914FA.CubeGridToolOutput_B93914FA]
+[2025.09.19-07.37.06:718][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_B93914FA]
+[2025.09.19-07.37.06:726][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_B93914FA
+[2025.09.19-07.37.06:726][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_B93914FA17D49F2448A3BD85EFCA25BFD0D76452.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_B93914FA.uasset'
+[2025.09.19-07.37.06:727][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_C4D1F4E8] ([1] browsable assets)...
+[2025.09.19-07.37.06:732][773]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/logan/CubeGridToolOutput_C4D1F4E8.CubeGridToolOutput_C4D1F4E8]
+[2025.09.19-07.37.06:732][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_C4D1F4E8]
+[2025.09.19-07.37.06:740][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_C4D1F4E8
+[2025.09.19-07.37.06:740][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_C4D1F4E86B3C60054961F52C80F2E0BB999DD302.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_C4D1F4E8.uasset'
+[2025.09.19-07.37.06:741][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_CE386739] ([1] browsable assets)...
+[2025.09.19-07.37.06:747][773]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/logan/CubeGridToolOutput_CE386739.CubeGridToolOutput_CE386739]
+[2025.09.19-07.37.06:747][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_CE386739]
+[2025.09.19-07.37.06:754][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_CE386739
+[2025.09.19-07.37.06:754][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_CE38673979EA87E44BC9E5B8DCDAEDA98A446DF7.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_CE386739.uasset'
+[2025.09.19-07.37.06:754][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_D012C310] ([1] browsable assets)...
+[2025.09.19-07.37.06:761][773]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/logan/CubeGridToolOutput_D012C310.CubeGridToolOutput_D012C310]
+[2025.09.19-07.37.06:761][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_D012C310]
+[2025.09.19-07.37.06:767][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_D012C310
+[2025.09.19-07.37.06:767][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_D012C310637F42224824C102E19BAE835A6224EA.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_D012C310.uasset'
+[2025.09.19-07.37.06:768][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_D6C78AB2] ([1] browsable assets)...
+[2025.09.19-07.37.06:768][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_D6C78AB2]
+[2025.09.19-07.37.06:774][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_D6C78AB2
+[2025.09.19-07.37.06:774][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_D6C78AB26B9079CD4E4036AE79912092345684AB.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_D6C78AB2.uasset'
+[2025.09.19-07.37.06:775][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_FC947D66] ([1] browsable assets)...
+[2025.09.19-07.37.06:775][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/CubeGridToolOutput_FC947D66]
+[2025.09.19-07.37.06:779][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_FC947D66
+[2025.09.19-07.37.06:779][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_FC947D6672EA69C14B0A1ED8037AD182C6E6D912.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/CubeGridToolOutput_FC947D66.uasset'
+[2025.09.19-07.37.06:780][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/logan/Cylinder_AB7BA477] ([1] browsable assets)...
+[2025.09.19-07.37.06:786][773]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/logan/Cylinder_AB7BA477.Cylinder_AB7BA477]
+[2025.09.19-07.37.06:786][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/Cylinder_AB7BA477]
+[2025.09.19-07.37.06:794][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/Cylinder_AB7BA477
+[2025.09.19-07.37.06:794][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/Cylinder_AB7BA4775D502CC34D3FFE135AC29C9CBAB1923D.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/Cylinder_AB7BA477.uasset'
+[2025.09.19-07.37.06:795][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/logan/Cylinder_E0856A93] ([1] browsable assets)...
+[2025.09.19-07.37.06:800][773]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/logan/Cylinder_E0856A93.Cylinder_E0856A93]
+[2025.09.19-07.37.06:800][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/logan/Cylinder_E0856A93]
+[2025.09.19-07.37.06:809][773]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/logan/Cylinder_E0856A93
+[2025.09.19-07.37.06:809][773]LogSavePackage: Moving '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/Cylinder_E0856A9341A6608442774532D4FB5EBE3DE9829D.tmp' to '../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/logan/Cylinder_E0856A93.uasset'
+[2025.09.19-07.37.06:828][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 363.626 ms (total: 1.69 sec)
+[2025.09.19-07.37.06:846][773]LogStall: Shutdown...
+[2025.09.19-07.37.06:846][773]LogStall: Shutdown complete.
+[2025.09.19-07.37.06:864][773]LogSlate: Window 'SheepyStudios - Unreal Editor' being destroyed
+[2025.09.19-07.37.06:865][773]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.09.19-07.37.07:106][773]LogContentValidation: Display: Starting to validate 18 assets
+[2025.09.19-07.37.07:106][773]LogContentValidation: Enabled validators:
+[2025.09.19-07.37.07:107][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.19-07.37.07:107][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.19-07.37.07:107][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.19-07.37.07:107][773]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.19-07.37.07:107][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.19-07.37.07:107][773]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_12B84A8C Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_25386F22 Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_3124EEE0 Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_344C978F Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_3BF2958F Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_5A45C1BC Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_71A3AD59 Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_A2400685 Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_A265307F Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_A69A3E19 Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_B93914FA Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_C4D1F4E8 Validating asset
+[2025.09.19-07.37.07:107][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_CE386739 Validating asset
+[2025.09.19-07.37.07:108][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_D012C310 Validating asset
+[2025.09.19-07.37.07:108][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_D6C78AB2 Validating asset
+[2025.09.19-07.37.07:108][773]AssetCheck: /Game/Levels/_GENERATED/logan/CubeGridToolOutput_FC947D66 Validating asset
+[2025.09.19-07.37.07:108][773]AssetCheck: /Game/Levels/_GENERATED/logan/Cylinder_AB7BA477 Validating asset
+[2025.09.19-07.37.07:108][773]AssetCheck: /Game/Levels/_GENERATED/logan/Cylinder_E0856A93 Validating asset
+[2025.09.19-07.37.07:109][773]Cmd: QUIT_EDITOR
+[2025.09.19-07.37.07:109][773]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.19-07.37.07:110][773]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/logan/Documents/Unreal Projects/Project_1/Sheepy-Studios/SheepyStudios/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.19-07.37.07:113][774]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.19-07.37.07:113][774]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.19-07.37.07:113][774]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.19-07.37.07:114][774]LogWorld: UWorld::CleanupWorld for Lvl_Garage_Floor_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-07.37.07:115][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-07.37.07:118][774]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.19-07.37.07:119][774]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.19-07.37.07:119][774]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.19-07.37.07:129][774]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-07.37.07:129][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-07.37.07:129][774]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.19-07.37.07:129][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.19-07.37.07:130][774]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.19-07.37.07:130][774]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.19-07.37.07:133][774]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.19-07.37.07:134][774]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.19-07.37.07:134][774]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.19-07.37.07:134][774]LogAudio: Display: Audio Device unregistered from world 'Lvl_Garage_Floor_3'.
+[2025.09.19-07.37.07:134][774]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.19-07.37.07:135][774]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.19-07.37.07:136][774]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.19-07.37.07:143][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.19-07.37.07:143][774]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.19-07.37.07:144][774]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.19-07.37.07:144][774]LogExit: Preparing to exit.
+[2025.09.19-07.37.07:193][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.09.19-07.37.08:322][774]LogEditorDataStorage: Deinitializing
+[2025.09.19-07.37.08:420][774]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.19-07.37.08:432][774]LogExit: Editor shut down
+[2025.09.19-07.37.08:433][774]LogExit: Transaction tracking system shut down
+[2025.09.19-07.37.08:497][774]LogExit: Object subsystem successfully closed.
+[2025.09.19-07.37.08:562][774]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.19-07.37.08:612][774]LogMemoryProfiler: Shutdown
+[2025.09.19-07.37.08:612][774]LogNetworkingProfiler: Shutdown
+[2025.09.19-07.37.08:612][774]LoadingProfiler: Shutdown
+[2025.09.19-07.37.08:612][774]LogTimingProfiler: Shutdown
+[2025.09.19-07.37.08:612][774]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.19-07.37.08:612][774]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.19-07.37.08:860][774]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.19-07.37.08:875][774]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.19-07.37.08:875][774]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6313AF6F-4591-C9AF-4514-629F423F72F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=8e2d1f4e403f05178eeb0a9c716fa70b%7Ce5ecfa78493d4193858db857ede86e49%7C2d141ddb-48d2-45db-bd4a-d11b371f61bd&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.19-07.37.09:414][774]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.19-07.37.09:414][774]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.19-07.37.09:414][774]RenderDocPlugin: plugin has been unloaded.
+[2025.09.19-07.37.09:416][774]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.19-07.37.09:416][774]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.19-07.37.09:416][774]LogPakFile: Destroying PakPlatformFile
+[2025.09.19-07.37.10:052][774]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.19-07.37.10:082][774]LogExit: Exiting.
+[2025.09.19-07.37.10:099][774]Log file closed, 09/19/25 03:37:10
